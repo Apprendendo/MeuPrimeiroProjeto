@@ -1,0 +1,9 @@
+# Arquivos
+
+package-lock.json
+
+# Diretorios
+
+node_modules/
+.husky/
+
