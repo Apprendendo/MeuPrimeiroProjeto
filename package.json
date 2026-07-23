@@ -1,6 +1,6 @@
 {
   "name": "@apprendendo/meu-primeiro-projeto",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Meu primeiro projeto com Semantic Release",
   "main": "index.js",
   "publishConfig": {

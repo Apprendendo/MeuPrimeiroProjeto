@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.3.0...v1.4.0) (2026-07-23)
+
+
+### Features
+
+* adicionar configuração para incluir a pasta docs no processamento do Jekyll ([7874fdd](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/7874fdda60f5121cd4f439a403828201b346e2e5))
+
 # [1.3.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.2.0...v1.3.0) (2026-07-23)
 
 
