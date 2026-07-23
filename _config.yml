@@ -5,5 +5,5 @@ description: Documentação do projeto automatizado com Semantic Release
 theme: jekyll-theme-architect
 
 # Configuração de URLs para o subdomínio e subpasta
-url: "https://dev.apprendendo.blog"
+url: "https://apprendendo.github.io"
 baseurl: "/MeuPrimeiroProjeto"
