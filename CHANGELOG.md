@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.5.0...v1.6.0) (2026-07-23)
+
+
+### Features
+
+* adicionar configuração do Jekyll no diretório docs ([1a7cfcf](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/1a7cfcfc41c602f78f0149f494e82429e5d7a683))
+
 # [1.5.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.4.0...v1.5.0) (2026-07-23)
 
 
