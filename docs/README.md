@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Meu Primeiro Projeto
-nav_order: 1
 ---
 
 # Meu Primeiro Projeto

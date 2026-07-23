@@ -1,3 +1,9 @@
-theme: jekyll-theme-architect
 title: Meu Primeiro Projeto
 description: Documentação do projeto automatizado com Semantic Release
+
+# Tema escolhido
+theme: jekyll-theme-architect
+
+# Configuração de URLs para o subdomínio e subpasta
+url: "https://dev.apprendendo.blog"
+baseurl: "/MeuPrimeiroProjeto"
