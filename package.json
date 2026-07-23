@@ -1,4 +1,11 @@
 {
+  "name": "@apprendendo/meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto com Semantic Release",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@commitlint/cli": "^21.2.1",
     "@commitlint/config-conventional": "^21.2.0",
