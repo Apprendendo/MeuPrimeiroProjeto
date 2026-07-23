@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.1.1...v1.1.2) (2026-07-23)
+
+
+### Bug Fixes
+
+* atualiza a URL de publicação e adiciona a página inicial da documentação ([7670e0d](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/7670e0d9d697c92d70e5792d4c6ce05c475497ac))
+
 ## [1.1.1](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.1.0...v1.1.1) (2026-07-23)
 
 
