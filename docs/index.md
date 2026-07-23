@@ -11,6 +11,9 @@ Esta é a página inicial da documentação do projeto. Aqui você encontra uma 
 ## Conteúdo disponível
 
 - [README](README)
-- [Security](SECURITY)
+- [Contribuição](CONTRIBUTING)
+- [Segurança](SECURITY)
+- [Suporte](SUPPORT)
+- [Código de Conduta](CODE_OF_CONDUCT)
 
 Use esta página como ponto de entrada para navegar pela documentação do projeto.

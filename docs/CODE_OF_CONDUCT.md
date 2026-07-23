@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Código de Conduta
 
 ## Nosso compromisso

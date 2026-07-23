@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Política de Segurança
 
 ## Versões Suportadas

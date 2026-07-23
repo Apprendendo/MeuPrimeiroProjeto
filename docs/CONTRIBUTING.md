@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Contribuindo com o projeto
 
 Obrigado por querer contribuir com este projeto! Seu apoio é muito importante para melhorar o conteúdo e a experiência de aprendizado.
