@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.2.0...v1.3.0) (2026-07-23)
+
+
+### Features
+
+* adicionar layout padrão e links para documentos de conduta, contribuição, segurança e suporte ([b78f56f](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/b78f56fafdaf19343a4569e3229c91f8d76cfa5f))
+
 # [1.2.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.1.2...v1.2.0) (2026-07-23)
 
 
