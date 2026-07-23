@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.0.0...v1.1.0) (2026-07-23)
+
+
+### Features
+
+* aplica o tema jekyll-theme-architect na pasta docs ([cbe698d](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/cbe698d8286d946d7bdd0c90a8c900b00163c0aa))
+
 # 1.0.0 (2026-07-23)
 
 
