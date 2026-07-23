@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.4.0...v1.5.0) (2026-07-23)
+
+
+### Features
+
+* adicionar configuração de arquivo de configuração Jekyll no workflow de implantação ([2cd911b](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/2cd911b6e340e4fd0af37035ca84e5d795b7d363))
+
 # [1.4.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.3.0...v1.4.0) (2026-07-23)
 
 
