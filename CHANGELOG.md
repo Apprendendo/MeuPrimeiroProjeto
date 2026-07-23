@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.1.2...v1.2.0) (2026-07-23)
+
+
+### Features
+
+* traduzir documentos de segurança, conduta e contribuição para o português ([904c7e5](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/904c7e5e946638806084135a98c718311da6ec7c))
+
 ## [1.1.2](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.1.1...v1.1.2) (2026-07-23)
 
 
