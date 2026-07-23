@@ -1,20 +1,20 @@
-# Security Policy
+# Política de Segurança
 
-## Supported Versions
+## Versões Suportadas
 
-The project is supported through the following browsers:
+O projeto é suportado pelos seguintes navegadores:
 
-| Browser | Supported          |
-| ------- | ------------------ |
-| Firefox | :white_check_mark: |
-| Chrome  | :white_check_mark: |
-| Safari  | :white_check_mark: |
-| Edge    | :white_check_mark: |
+| Navegador | Suportado          |
+| --------- | ------------------ |
+| Firefox   | :white_check_mark: |
+| Chrome    | :white_check_mark: |
+| Safari    | :white_check_mark: |
+| Edge      | :white_check_mark: |
 
-## Reporting a Vulnerability
+## Reportando uma Vulnerabilidade
 
-Use this section to tell people how to report a vulnerability.
+Use esta seção para informar como relatar uma vulnerabilidade.
 
-Report the [Issue Request](https://github.com/clcmo/MeuPrimeiroProjeto/issues/new?assignees=&labels=&template=bug_report.md&title=), with details on the vulnerabilities found on the page.
+Abra uma [solicitação de issue](https://github.com/clcmo/MeuPrimeiroProjeto/issues/new?assignees=&labels=&template=bug_report.md&title=), descrevendo com detalhes as vulnerabilidades encontradas na página.
 
-A screenshot and a code snippet with the reported message are also valid.
+Uma captura de tela e um trecho de código com a mensagem reportada também são válidos.
