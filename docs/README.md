@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Meu Primeiro Projeto
 ---
-
 # Meu Primeiro Projeto
 
 [![GitHub license](https://img.shields.io/github/license/Apprendendo/MeuPrimeiroProjeto?style=for-the-badge)](https://github.com/Apprendendo/Meu-Primeiro-Projeto)

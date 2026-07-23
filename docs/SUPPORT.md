@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Onde obter ajuda
+# Onde obter ajuda
 
 Se você acredita ter encontrado um bug, por favor [verifique as issues existentes](https://github.com/apprendendo/meuprimeiroprojeto/issues). Se ninguém tiver relatado o problema, [abra uma nova issue](https://github.com/apprendendo/meuprimeiroprojeto/issues/new).
 
