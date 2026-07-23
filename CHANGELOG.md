@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.1.0...v1.1.1) (2026-07-23)
+
+
+### Bug Fixes
+
+* corrige o caminho de origem no workflow de construção do Jekyll ([4198455](https://github.com/Apprendendo/MeuPrimeiroProjeto/commit/4198455e39d288ba3003f6f9b6fb365f366038a6))
+
 # [1.1.0](https://github.com/Apprendendo/MeuPrimeiroProjeto/compare/v1.0.0...v1.1.0) (2026-07-23)
 
 
